@@ -7,18 +7,18 @@
 ### ✨ Visitor Stats 
 
 <p align="center">
-  <a href="https://github.com/MashiroSA/">
+  <a href="https://github.com/Sy1vian/">
     <img align="center" src='https://moe-counter.mashirosa.repl.co/get/@mashirosa/?theme=rule34' width="400px">
   </a>
 </p>
 
 ### 🍎 Github Stats 
 <p align="center">
-  <a href="https://github.com/MashiroSA/">
+  <a href="https://github.com/Sy1vian/">
     <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MashiroSA&show_icons=true&include_all_commits=true&theme=radical" />
   </a>
-  <a href="https://github.com/MashiroSA/">
-          <img align="center" alt="Top Langs" height="200" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashiroSA&layout=compact&theme=radical" />
+  <a href="https://github.com/Sy1vian/">
+          <img align="center" alt="Top Langs" height="200" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sy1vian&layout=compact&theme=radical" />
   </a>
 </p>
     
