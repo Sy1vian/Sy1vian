@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Sy1vian/">
-    <img align="center" src='https://moe-counter.Sy1vian.repl.co/get/@Sy1vian/?theme=rule34' width="400px">
+    <img align="center" src='https://moe-counter.mashirosa.repl.co/get/@Sy1vian/?theme=rule34' width="400px">
   </a>
 </p>
 
