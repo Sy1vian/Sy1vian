@@ -8,14 +8,14 @@
 
 <p align="center">
   <a href="https://github.com/Sy1vian/">
-    <img align="center" src='https://moe-counter.mashirosa.repl.co/get/@mashirosa/?theme=rule34' width="400px">
+    <img align="center" src='https://moe-counter.Sy1vian.repl.co/get/@Sy1vian/?theme=rule34' width="400px">
   </a>
 </p>
 
 ### 🍎 Github Stats 
 <p align="center">
   <a href="https://github.com/Sy1vian/">
-    <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MashiroSA&show_icons=true&include_all_commits=true&theme=radical" />
+    <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sy1vian&show_icons=true&include_all_commits=true&theme=radical" />
   </a>
   <a href="https://github.com/Sy1vian/">
           <img align="center" alt="Top Langs" height="200" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sy1vian&layout=compact&theme=radical" />
@@ -28,7 +28,7 @@
   <table>
     <tr>
       <td valign="mid" width="50%">
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MashiroSA&theme=xcode" />
+        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sy1vian&theme=xcode" />
       </td>
     </tr>
   </table>
