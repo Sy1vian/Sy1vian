@@ -28,7 +28,7 @@
   <table>
     <tr>
       <td valign="mid" width="50%">
-        <img src="[https://github-readme-activity-graph.cyclic.app/graph?username=Sy1vian&theme=xcode](https://github-readme-activity-graph.vercel.app/graph?username=Sy1vian&theme=vue)" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sy1vian&theme=vue" />
       </td>
     </tr>
   </table>
