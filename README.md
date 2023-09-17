@@ -1,9 +1,9 @@
 <div align="center">
   <h1 align="center"> <img align="center" height="80" src="https://readme-typing-svg.herokuapp.com/?lines=(●'◡'●);(,,•́%20.%20•̀,,)&font=Roboto&center=true" /> </h1>
-  <h3>窝太善良了...</h3>
+  <h3>虽然有缺失,但是我很幸运呀~</h3>
 </div>
 
-> Wer mit Ungeheuern kämpft, mag zusehn, dass er nicht dabei zum Ungeheuer wird. Und wenn du lange in einen Abgrund blickst, blickt der Abgrund auch in dich hinein.
+> Es ist nicht genug zu wissen - man muss auch anwenden. Es ist nicht genug zu wollen - man muss auch tun.
 ### ✨ Visitor Stats 
 
 <p align="center">
