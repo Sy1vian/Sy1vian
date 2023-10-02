@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center"> <img align="center" height="80" src="https://readme-typing-svg.herokuapp.com/?lines=(●'◡'●);(,,•́%20.%20•̀,,)&font=Roboto&center=true" /> </h1>
-  <h3>虽然有缺失,但是我很幸运呀~</h3>
+  <h3>Jeder starke Baum war einmal eine kleine Pflanze und jede große Tat beginnt mit einem kleinen, guten Gedanken.</h3>
 </div>
 
 > Es ist nicht genug zu wissen - man muss auch anwenden. Es ist nicht genug zu wollen - man muss auch tun.
