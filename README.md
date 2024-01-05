@@ -4,7 +4,13 @@
 </div>
 
 > Es ist nicht genug zu wissen - man muss auch anwenden. Es ist nicht genug zu wollen - man muss auch tun.<br>
-> 🔵Concept Art/Game Development/Animation Planning/Scriptwriter Director
+> 🔵Concept Art/Game Development/Animation Planning/Scriptwriter Director<br>
+> [P5] Game Planning Narrative Reviewer<br>
+> [Rakshasa Street] Independent Animation Supervisor<br>
+> [Hunt:Showdown] Former Bar Master,CN Platform Manager,Asian Market Analyst<br>
+> [Sony] Peripheral Independent Planning Specialist<br>
+> (民间)<br>
+> Currently resigning. If you sincerely need my resume, please contact me, the deputy, for more details.<br>
 ### ✨ Visitor Stats 
 
 <p align="center">
