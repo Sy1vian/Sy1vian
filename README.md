@@ -4,7 +4,7 @@
 </div>
 
 > Es ist nicht genug zu wissen - man muss auch anwenden. Es ist nicht genug zu wollen - man muss auch tun.
-> Concept Art/Game Development/Animation Planning/Scriptwriter Director
+> 🔵Concept Art/Game Development/Animation Planning/Scriptwriter Director
 ### ✨ Visitor Stats 
 
 <p align="center">
