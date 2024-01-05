@@ -3,7 +3,7 @@
   <h3>Jeder starke Baum war einmal eine kleine Pflanze und jede große Tat beginnt mit einem kleinen, guten Gedanken.</h3>
 </div>
 
-> Es ist nicht genug zu wissen - man muss auch anwenden. Es ist nicht genug zu wollen - man muss auch tun.
+> Es ist nicht genug zu wissen - man muss auch anwenden. Es ist nicht genug zu wollen - man muss auch tun.<br>
 > 🔵Concept Art/Game Development/Animation Planning/Scriptwriter Director
 ### ✨ Visitor Stats 
 
