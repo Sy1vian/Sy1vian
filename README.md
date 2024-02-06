@@ -13,7 +13,14 @@
 > Currently resigning. If you sincerely need my resume, please contact me, the deputy, for more details.<br>
 ### ✨ Visitor Stats 
 
-### ![Metrics](https://metrics.lecoq.io/Sy1vian?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Sy1vian/Sy1vian/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Sy1vian/Sy1vian/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Sy1vian/Sy1vian/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
+
+</div>
 <div align="center"><img src="https://raw.githubusercontent.com/Sy1vian/Sy1vian/master/assets/github-contribution-grid-snake.svg" ></div>
 
 <p align="center">
