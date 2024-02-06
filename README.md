@@ -13,12 +13,15 @@
 > Currently resigning. If you sincerely need my resume, please contact me, the deputy, for more details.<br>
 ### ✨ Visitor Stats 
 
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Sy1vian/Sy1vian/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Sy1vian/Sy1vian/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Sy1vian/Sy1vian/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
+**🚗 | DevOps**
+
+<p>
+  <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img alt="CentOS" src="https://img.shields.io/badge/CentOS-292929?style=for-the-badge&logo=centos&logoColor=white">
+  <img alt="docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white">
+</p>
 
 </div>
 <div align="center"><img src="https://raw.githubusercontent.com/Sy1vian/Sy1vian/master/assets/github-contribution-grid-snake.svg" ></div>
