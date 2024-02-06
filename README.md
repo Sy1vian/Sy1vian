@@ -13,7 +13,7 @@
 > Currently resigning. If you sincerely need my resume, please contact me, the deputy, for more details.<br>
 ### ✨ Visitor Stats 
 
-### 🐍 Contribution Stats
+### ![Metrics](https://metrics.lecoq.io/Sy1vian?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 <div align="center"><img src="https://raw.githubusercontent.com/Sy1vian/Sy1vian/master/assets/github-contribution-grid-snake.svg" ></div>
 
 <p align="center">
