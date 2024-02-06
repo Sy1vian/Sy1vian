@@ -23,9 +23,6 @@
   <img alt="docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white">
 </p>
 
-</div>
-<div align="center"><img src="https://raw.githubusercontent.com/Sy1vian/Sy1vian/master/assets/github-contribution-grid-snake.svg" ></div>
-
 <p align="center">
   <a href="https://github.com/Sy1vian/">
     <img align="center" src='https://moe-counter.mashirosa.repl.co/get/@Sy1vian/?theme=rule34' width="400px">
