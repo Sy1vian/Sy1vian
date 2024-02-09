@@ -7,7 +7,7 @@
 > 🔵Concept Art/Game Development/Animation Planning/Scriptwriter Director<br>
 > [P5] Game Planning Narrative Reviewer<br>
 > [Rakshasa Street] Independent Animation Supervisor<br>
-> [HT:S] Former BaiDuTieBAMaster,CN Platform Manager,Asian Market Analyst<br>
+> [HT:S] Former BaiDuTieBA Master,CN Platform Manager,Asian Market Analyst<br>
 > Peripheral Independent Planning Specialist<br>
 > <br>
 > Currently resigning. If you sincerely need my resume, please contact me, the deputy, for more details.<br>
