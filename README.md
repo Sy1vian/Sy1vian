@@ -4,7 +4,7 @@
 </div>
 
 > Es ist nicht genug zu wissen - man muss auch anwenden. Es ist nicht genug zu wollen - man muss auch tun.<br>
-> 🔵Concept Art/A passionate game developer/Animation Planning/Scriptwriter Director<br>
+> 🔵Concept Art//IG Game Developer/Animation Planning/Scriptwriter Director<br>
 > [P5] Game Planning Narrative Reviewer<br>
 > [Rakshasa Street] Independent Animation Supervisor<br>
 > [HT:S] Former BDPB Master,CN Platform Manager,Asian Market Analyst<br>
