@@ -10,7 +10,7 @@
 > [HT:S] Former BDPB Master,CN Platform Manager,Asian Market Analyst<br>
 > Peripheral Independent Planning Specialist<br>（unofficial）Offering customized Game server services
 > <br>
-> Currently resigning. If you sincerely need my resume, please contact me, the deputy, for more details.<br>
+> If you sincerely need my resume, please contact me, the deputy, for more details.<br>
 ### ✨ Visitor Stats 
 
 **🚗 | DevOps**
