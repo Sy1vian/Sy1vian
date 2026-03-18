@@ -3,12 +3,14 @@
   <h3>Jeder starke Baum war einmal eine kleine Pflanze und jede große Tat beginnt mit einem kleinen, guten Gedanken.</h3>
 </div>
 
-> Concept Art · Game Development · Narrative Design<br>
-> 🔵Concept Art//IG Game Developer/Animation Planning/Scriptwriter Director<br>
-> Involved in game and animation projects across planning, writing, and direction.  
-Experience spans independent productions and platform-level operations.<br>
-> Also engaged in server infrastructure and community systems.<br>
-> I tend to respond to thoughtful and well-structured inquiries.<br>
+Concept Art · Game Development · Narrative Design<br><br>
+
+Involved in game and animation projects across planning, writing, and direction.<br>
+Experience spans independent productions and platform-level operations.<br><br>
+
+Also engaged in server infrastructure and community systems.<br><br>
+
+I respond best to thoughtful and well-structured inquiries.
 
 ### ✨ Visitor Stats 
 
