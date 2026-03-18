@@ -3,14 +3,13 @@
   <h3>Jeder starke Baum war einmal eine kleine Pflanze und jede große Tat beginnt mit einem kleinen, guten Gedanken.</h3>
 </div>
 
-> Es ist nicht genug zu wissen - man muss auch anwenden. Es ist nicht genug zu wollen - man muss auch tun.<br>
+> Concept Art · Game Development · Narrative Design<br>
 > 🔵Concept Art//IG Game Developer/Animation Planning/Scriptwriter Director<br>
-> [P5] Game Planning Narrative Reviewer<br>
-> [Rakshasa Street] Independent Animation Supervisor<br>
-> [HT:S] Former BDPB Master,CN Platform Manager,Asian Market Analyst<br>
-> Peripheral Independent Planning Specialist<br>（unofficial）Offering customized Game server services
-> <br>
-> If you really need my help, please contact my secretary for more details.<br>
+> Involved in game and animation projects across planning, writing, and direction.  
+Experience spans independent productions and platform-level operations.<br>
+> Also engaged in server infrastructure and community systems.<br>
+> I tend to respond to thoughtful and well-structured inquiries.<br>
+
 ### ✨ Visitor Stats 
 
 **🚗 | DevOps**
