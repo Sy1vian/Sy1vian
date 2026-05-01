@@ -4,10 +4,10 @@
 </div>
 
 Concept Art · Game Development · Narrative Design<br><br>
-🔵Involved in game and animation projects across planning, writing, and direction.<br>
-🔵Experience spans independent productions and platform-level operations.<br>
-🔵Also engaged in server infrastructure and community systems.<br>
-🔵I respond best to thoughtful and well-structured inquiries.
+-Involved in game and animation projects across planning, writing, and direction.<br>
+-Experience spans independent productions and platform-level operations.<br>
+-Also engaged in server infrastructure and community systems.<br>
+-I respond best to thoughtful and well-structured inquiries.
 
 ### ✨ Visitor Stats 
 
