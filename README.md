@@ -25,7 +25,7 @@ Concept Art · Game Development · Narrative Design<br><br>
 ### 🍎 Github Stats
 <p align="center">
   <img align="center" alt="GitHub Stats" src="profile/STAUS.png" width="48%" />
-  <img align="center" alt="Top Langs" src="profile/most languages.png" width="48%" />
+  <img align="center" alt="Top Langs" src="profile/Most_Languages.png" width="48%" />
 </p>
     
 
