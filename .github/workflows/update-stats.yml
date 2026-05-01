@@ -2,10 +2,8 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: "0 2 * * *"     # 每天北京时间早上10点自动更新
-  workflow_dispatch:        # 手动运行
-  push:                     # 临时用来激活（后面可以删）
-    branches: [ main ]
+    - cron: "0 2 * * *"      # 每天北京时间早上10点自动更新
+  workflow_dispatch:         # 允许手动点击运行
 
 jobs:
   update:
