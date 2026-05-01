@@ -1,9 +1,10 @@
 name: Update GitHub Stats
+
 on:
   schedule:
-    - cron: "0 2 * * *"
-  workflow_dispatch:
-  push:                  # ← 临时添加这3行
+    - cron: "0 2 * * *"     # 每天北京时间早上10点自动更新
+  workflow_dispatch:        # 手动运行
+  push:                     # 临时用来激活（后面可以删）
     branches: [ main ]
 
 jobs:
@@ -16,11 +17,11 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: 生成 GitHub Stats 主卡片
+      - name: 生成 Stats 主卡片
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&theme=radical&hide_border=true
+          options: username=Sy1vian&show_icons=true&include_all_commits=true&theme=radical&hide_border=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -28,11 +29,11 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=radical&hide_border=true
+          options: username=Sy1vian&layout=compact&theme=radical&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: 提交图片到仓库
+      - name: 提交更新
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
