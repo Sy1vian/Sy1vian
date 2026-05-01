@@ -22,14 +22,10 @@ Concept Art · Game Development · Narrative Design<br><br>
 </p>
 
 
-### 🍎 Github Stats 
+### 🍎 Github Stats
 <p align="center">
-  <a href="https://github.com/Sy1vian/">
-    <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sy1vian&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=14400" />
-  </a>
-  <a href="https://github.com/Sy1vian/">
-          <img align="center" alt="Top Langs" height="200" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sy1vian&layout=compact&theme=radical&cache_seconds=14400" />
-  </a>
+  <img align="center" alt="GitHub Stats" src="stats.svg" />
+  <img align="center" alt="Top Langs" height="200" width="360" src="top-langs.svg" />
 </p>
     
 
