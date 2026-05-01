@@ -27,14 +27,14 @@ jobs:
             "https://github-readme-stats.vercel.app/api?username=Sy1vian&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" \
             -o profile/STAUS.svg
           # 转为 PNG（与 README 中引用的文件名保持一致）
-          npx --yes svgexport profile/STAUS.svg profile/STAUS.png 2x
+          npx --yes svgexport profile/STAUS.svg profile/STAUS.svg 2x
 
       - name: 生成 Top Languages 卡片
         run: |
           curl -s \
             "https://github-readme-stats.vercel.app/api/top-langs?username=Sy1vian&layout=compact&theme=vue-dark&hide_border=true" \
             -o profile/Most_Languages.svg
-          npx --yes svgexport profile/Most_Languages.svg profile/Most_Languages.png 2x
+          npx --yes svgexport profile/Most_Languages.svg profile/Most_Languages.svg 2x
 
       - name: 提交更新
         run: |
