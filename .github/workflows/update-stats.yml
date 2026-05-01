@@ -2,8 +2,8 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: "0 2 * * *"      # 每天北京时间早上10点自动更新
-  workflow_dispatch:         # 允许手动点击运行
+    - cron: "0 2 * * *"
+  workflow_dispatch:
 
 jobs:
   update:
@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: "${{ secrets.GITHUB_TOKEN }}"
 
       - name: 生成 Stats 主卡片
         uses: readme-tools/github-readme-stats-action@v1
@@ -21,7 +21,7 @@ jobs:
           card: stats
           options: username=Sy1vian&show_icons=true&include_all_commits=true&theme=radical&hide_border=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: "${{ secrets.GITHUB_TOKEN }}"
 
       - name: 生成 Top Languages 卡片
         uses: readme-tools/github-readme-stats-action@v1
@@ -29,7 +29,7 @@ jobs:
           card: top-langs
           options: username=Sy1vian&layout=compact&theme=radical&hide_border=true
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: "${{ secrets.GITHUB_TOKEN }}"
 
       - name: 提交更新
         run: |
