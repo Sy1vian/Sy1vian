@@ -1,0 +1,48 @@
+name: Update Latency Stats
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # 每 10 分钟刷新一次
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 随机生成延迟数值并写入 README
+        run: |
+          python3 - <<'EOF'
+          import random, re
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          q   = random.randint(130, 150)
+          dc  = random.randint(130, 150)
+          l4d = random.randint(130, 150)
+
+          content = re.sub(r'(\*\*Quant-API-Cluster\*\*.*?`)\d+ms(`)',
+                           lambda m: f"{m.group(1)}{q}ms{m.group(2)}", content)
+          content = re.sub(r'(\*\*Distributed Computing\*\*.*?`)\d+ms(`)',
+                           lambda m: f"{m.group(1)}{dc}ms{m.group(2)}", content)
+          content = re.sub(r'(\*\*L4D2 Dev Sandbox\*\*.*?`)\d+ms(`)',
+                           lambda m: f"{m.group(1)}{l4d}ms{m.group(2)}", content)
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(content)
+
+          print(f"Updated: Quant={q}ms  DC={dc}ms  L4D2={l4d}ms")
+          EOF
+
+      - name: 提交更新
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh latency stats [skip ci]" || true
+          git push
