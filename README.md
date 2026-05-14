@@ -40,6 +40,26 @@ Concept Art · Game Development · Narrative Design<br><br>
   </table>
 </div>
 
+## 🖥️ System Resource & API Status
+
+> **Access Protocol:** Distributed resources are strictly reserved for vetted inner-circle associates. No public endpoints.
+
+| Service | Node Status | Latency | Security | Access |
+| :--- | :--- | :--- | :--- | :--- |
+| **Quant-API-Cluster** | ![Operational](https://img.shields.io/badge/-Online-brightgreen?style=flat-square) | `18ms` | ![High](https://img.shields.io/badge/-Encrypted-blue?style=flat-square) | `Invite Only` |
+| **High-Performance Computing** | ![Operational](https://img.shields.io/badge/-Active-brightgreen?style=flat-square) | `N/A` | ![Hardened](https://img.shields.io/badge/-Secure-blue?style=flat-square) | `Restricted` |
+| **L4D2 Dev Sandbox** | ![Idle](https://img.shields.io/badge/-Standby-blue?style=flat-square) | `12ms` | ![Standard](https://img.shields.io/badge/-Protected-blue?style=flat-square) | `Bespoke` |
+
+---
+
+### 🛠️ Professional Services & Commissions
+
+*   **API & Computing:** Private API endpoints and distributed computing power allocation (Non-commercial).
+*   **Source Engine:** Professional-grade L4D2 plugin customization and server-side logic scripting.
+*   **Status:** Currently accepting high-tier bespoke commissions.
+
+---
+
 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)"
