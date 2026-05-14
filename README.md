@@ -41,14 +41,9 @@ Concept Art · Game Development · Narrative Design<br><br>
 </div>
 
 ## 🖥️ System Resource & API Status
-
 > **Access Protocol:** Distributed computing resources are strictly reserved for vetted inner-circle associates. No public endpoints or commercial peering.
 
-| Service | Node Status | Latency (Avg) | Security | Access |
-| :--- | :--- | :--- | :--- | :--- |
-| **Quant-API-Cluster** | ![Operational](https://img.shields.io/badge/-Online-brightgreen?style=flat-square) | `132ms` | ![High](https://img.shields.io/badge/-Encrypted-blue?style=flat-square) | `Invite Only` |
-| **Distributed Computing** | ![Operational](https://img.shields.io/badge/-Active-brightgreen?style=flat-square) | `N/A` | ![Hardened](https://img.shields.io/badge/-Secure-blue?style=flat-square) | `Restricted` |
-| **L4D2 Dev Sandbox** | ![Idle](https://img.shields.io/badge/-Standby-blue?style=flat-square) | `135ms` | ![Standard](https://img.shields.io/badge/-Protected-blue?style=flat-square) | `Bespoke` |
+![System Monitor](profile/system-monitor.svg)
 
 ---
 
