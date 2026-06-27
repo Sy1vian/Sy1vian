@@ -39,3 +39,11 @@ jobs:
           git add profile/stats.svg profile/top-langs.svg
           git commit -m "Update GitHub stats cards" || exit 0
           git push
+
+      - name: 生成 Most Languages 卡片
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=radical&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,scss
+          path: profile/Most_Languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
