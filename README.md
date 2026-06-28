@@ -4,7 +4,9 @@
 </div>
 
 ### Technical & Creative Direction
-Concept Art · Game Development · Narrative Design
+* **Scope:** Platform-level operations, cross-regional infrastructure, and independent digital productions.
+* **Systems:** Technical direction, distributed compute architecture (Private API), and Source Engine Plugin Development.
+* **Game Development :** Core systems planning, interactive writing, and creative direction for game/animation projects.Concept Art&Narrative Design.
 
 Inquiries must be precise, structured, and goal-oriented.
 ### ✨ Visitor Stats 
