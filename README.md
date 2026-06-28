@@ -3,12 +3,12 @@
   <h3>Jeder starke Baum war einmal eine kleine Pflanze und jede große Tat beginnt mit einem kleinen, guten Gedanken.</h3>
 </div>
 
-Concept Art · Game Development · Narrative Design<br><br>
-- Involved in game and animation projects across planning, writing, and direction.<br>
-- Experience spans independent productions and platform-level operations.<br>
-- Also engaged in server infrastructure and community systems.<br>
-- I respond best to thoughtful and well-structured inquiries.
+### Technical & Creative Direction
+Concept Art · Game Development · Narrative Design
 
+Bridging structural logic and digital aesthetics. Involved in game and animation architectures across systems planning, core narrative, and technical direction. Experience encompasses high-fidelity independent productions and platform-level operations, alongside cross-regional server infrastructure.
+
+Inquiries must be precise, structured, and goal-oriented.
 ### ✨ Visitor Stats 
 
 **🚗 | DevOps**
@@ -55,11 +55,13 @@ Concept Art · Game Development · Narrative Design<br><br>
 
 ---
 
-### 🛠️ Professional Services & Commissions
+### Core Infrastructure & Solutions
+* **Distributed Systems & Compute:** High-performance private API endpoints and cross-regional resource orchestration.
+* **Source Engine Architecture:** Professional-grade environment deployment, optimization, and low-level server-side scripting.
 
-*   **API & Computing:** Private API endpoints and cross-regional computing power allocation.
-*   **Source Engine:** Professional-grade L4D2 plugin customization and server-side logic scripting.
-*   **Status:** Currently accepting high-tier bespoke commissions. (Queue: **Limited**)
+### Engagement Status
+* **Strategic Collaborations:** Highly selective availability. Reserved exclusively for advanced technical challenges or distinct artistic endeavors.
+* **Resource Access:** Allocation of private computing infrastructure and token quotas is vetted on a strict case-by-case basis via secure channels.
 
 ---
 
