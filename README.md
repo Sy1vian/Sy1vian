@@ -6,8 +6,6 @@
 ### Technical & Creative Direction
 Concept Art · Game Development · Narrative Design
 
-Bridging structural logic and digital aesthetics. Involved in game and animation architectures across systems planning, core narrative, and technical direction. Experience encompasses high-fidelity independent productions and platform-level operations, alongside cross-regional server infrastructure.
-
 Inquiries must be precise, structured, and goal-oriented.
 ### ✨ Visitor Stats 
 
@@ -54,14 +52,11 @@ Inquiries must be precise, structured, and goal-oriented.
 ![System Monitor](profile/system-monitor.svg)
 
 ---
+* **Infrastructure:** Private API endpoints & cross-regional compute allocation.
+* **Source Engine:** Server-side scripting, custom plugins, and performance tuning.
+* **Projects:** Independent game development and technical art direction.
 
-### Core Infrastructure & Solutions
-* **Distributed Systems & Compute:** High-performance private API endpoints and cross-regional resource orchestration.
-* **Source Engine Architecture:** Professional-grade environment deployment, optimization, and low-level server-side scripting.
-
-### Engagement Status
-* **Strategic Collaborations:** Highly selective availability. Reserved exclusively for advanced technical challenges or distinct artistic endeavors.
-* **Resource Access:** Allocation of private computing infrastructure and token quotas is vetted on a strict case-by-case basis via secure channels.
+*Inquiries via secure endpoints.*
 
 ---
 
