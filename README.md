@@ -4,11 +4,14 @@
 </div>
 
 ### Technical & Creative Direction
-* **Scope:** Platform-level operations, cross-regional infrastructure, and independent digital productions.
-* **Systems:** Technical direction, distributed compute architecture (Private API), and Source Engine Plugin Development.
-* **Game Development :** Core systems planning, interactive writing, and creative direction for game/animation projects.Concept Art&Narrative Design.
 
-Inquiries must be precise, structured, and goal-oriented.
+* **Scope:** Platform-level operations, cross-regional infrastructure, and independent digital productions.
+* **Source Engine:** Server-side scripting, custom plugin development, and performance tuning.
+* **Creative & Narrative:** Core systems planning, interactive writing, technical art direction, and concept design.
+
+---
+
+*Inquiries must be precise, structured, and goal-oriented.*
 ### ✨ Visitor Stats 
 
 **🚗 | DevOps**
@@ -54,9 +57,7 @@ Inquiries must be precise, structured, and goal-oriented.
 ![System Monitor](profile/system-monitor.svg)
 
 ---
-* **Infrastructure:** Private API endpoints & cross-regional compute allocation.
-* **Source Engine:** Server-side scripting, custom plugins, and performance tuning.
-* **Projects:** Independent game development and technical art direction.
+* **Systems & Infrastructure:** Distributed compute architecture (Private API) and cross-regional resource allocation.
 
 *Inquiries via secure endpoints.*
 
